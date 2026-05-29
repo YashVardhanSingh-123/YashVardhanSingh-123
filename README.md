@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, Yash Vardhan Singh here!
+## About Me
+- Interested in Web Development
+- Currently learning HTML and CSS
+## Social Links
+- Linked In - https://www.linkedin.com/in/yash-vardhan-singh-2077083a5
+- Gmail - yashvardhansince2006@gmail.com
 
 <!--
 **YashVardhanSingh-123/YashVardhanSingh-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
