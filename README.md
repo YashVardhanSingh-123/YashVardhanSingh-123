@@ -1,7 +1,5 @@
 # Hi, Yash Vardhan Singh here!
 
----
-
 ## About Me
 - Interested in Web Development
 - Currently learning HTML and CSS
